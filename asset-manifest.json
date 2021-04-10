@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/box-oofice/static/css/main.93052401.chunk.css",
+    "main.js": "/box-oofice/static/js/main.6683c2cb.chunk.js",
+    "main.js.map": "/box-oofice/static/js/main.6683c2cb.chunk.js.map",
+    "runtime-main.js": "/box-oofice/static/js/runtime-main.8efe10df.js",
+    "runtime-main.js.map": "/box-oofice/static/js/runtime-main.8efe10df.js.map",
+    "static/js/2.822f78aa.chunk.js": "/box-oofice/static/js/2.822f78aa.chunk.js",
+    "static/js/2.822f78aa.chunk.js.map": "/box-oofice/static/js/2.822f78aa.chunk.js.map",
+    "index.html": "/box-oofice/index.html",
+    "precache-manifest.fc0cd6ffecde545127ea3ae91ea70734.js": "/box-oofice/precache-manifest.fc0cd6ffecde545127ea3ae91ea70734.js",
+    "service-worker.js": "/box-oofice/service-worker.js",
+    "static/css/main.93052401.chunk.css.map": "/box-oofice/static/css/main.93052401.chunk.css.map",
+    "static/js/2.822f78aa.chunk.js.LICENSE.txt": "/box-oofice/static/js/2.822f78aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8efe10df.js",
+    "static/js/2.822f78aa.chunk.js",
+    "static/css/main.93052401.chunk.css",
+    "static/js/main.6683c2cb.chunk.js"
+  ]
+}
